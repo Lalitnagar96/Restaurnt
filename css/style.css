@@ -1,0 +1,639 @@
+	#lalit{
+			background-image : url("../img/hero-bg.jpg") ;
+			background-repeat : round ;
+			background-color : rgba(0,0,0,0.5) ;
+			background-blend-mode : darken ;
+			color : white ;
+			padding-top :40px ;
+			width : 100% ;
+			height : 600px ;
+		}
+
+	.rest{
+			margin : 150px 0px 150px 120px ;
+			
+		}
+
+
+	.rest b{
+			color : gold ;
+			
+		}
+	
+
+
+	.rest h1{
+			font-size : 40px ;
+			
+		}
+
+
+
+
+	.nav{
+			background-color : rgba(0,0,0,0.5) ;
+			background-blend-mode : darken ;
+			color : white ;
+			
+		}
+
+
+
+	
+
+	.button{
+			border : 2px solid gold ;
+			border-radius : 50px 50px 50px 50px ;
+			background-color : rgba(0,0,0,0) ;
+			background-blend-mode : darken ;
+			width : 150px ;
+			height : 40px ;
+			color : white ;
+		}
+
+	#select{
+			border : 0px solid black ;
+			background-color : rgba(0,0,0,0) ;
+			background-blend-mode : darken ;
+			color : white ;
+		}
+
+
+
+
+	.buttonsec{	
+			
+			border : 2px solid gold ;
+			border-radius : 50px 50px 50px 50px ;
+			background-color : rgba(0,0,0,0) ;
+			background-blend-mode : darken ;
+			font-size : 11px ;
+			color : white ;
+			width : 130px ;
+			height : 30px ;
+		}
+		
+
+
+	.buttonthr{	
+			
+			border : 2px solid gold ;
+			border-radius : 50px 50px 50px 50px ;
+			background-color : rgba(0,0,0,0) ;
+			background-blend-mode : darken ;
+			font-size : 11px ;
+			color : white ;
+			width : 130px ;
+			height : 30px ;
+		}
+
+	
+/*--------------------------------- section -------------------------------------------------*/
+
+	.section{
+			background-image : url("../img/about-bg.jpg");
+			background-repeat : round ; 
+			background-size : cover ;
+			background-position : top ;
+			background-color : rgba(0,0,0,0.8) ;
+			background-blend-mode : darken ;
+			color : #4d4d4d ;
+			display: flex;
+			justify-content: space-between;
+			width: 100%;
+			height : 600px;
+			padding-bottom :
+			
+		}
+
+
+
+	.volu{
+			margin : 100px 0px 0px 120px ;
+		}
+
+
+
+	
+
+
+	.section img{
+			border : 2px solid #595959 ;
+			margin-right : 70px ;
+			margin-top : 100px ;
+			width : 530px ;
+			height: 380px;
+		}
+
+
+	/*--------------------------------- container -------------------------------------------------*/
+
+	
+
+	.container{
+			display : flex ;
+			margin : 0px 10px ;
+					}
+
+
+	.container div{
+			background-color: #1a1a1a;
+			align-items: center;
+			margin : 10px ;
+			padding : 30px 30px 20px 20px ;
+			width: 100%;
+		}
+
+
+	.container div h2{
+			color : gold ;
+			margin : 20px ;
+		}
+
+		
+	.container div h3{
+			color : white ;
+			margin : 20px ;
+		}
+
+
+	.container div p{
+			color : #e6e6e6 ;
+		}
+
+
+	.why{
+			padding : 30px 100px 30px ;
+			background-color : #0d0d0d ;
+			
+		
+		}
+
+
+	.why p{
+			color : #e6e6e6 ;
+			margin : 20px ;
+		}
+
+
+
+	.why h1{
+			color : gold ;
+			margin-left : 20px ;
+		}
+
+
+	
+	/*--------------------------------- menu -------------------------------------------------*/	
+
+
+
+
+	.menu{
+			background-color :  #1a1a1a ;
+			color : #999999 ;
+			padding : 20px 0px 40px ;
+			
+		}
+
+	.menu b{
+			color : gold ;
+		}
+
+
+	.menu h4{
+			color : white ;
+		}
+
+
+	.menu i{
+			color :  #999999 ;
+		}
+
+
+	.menu p{
+			font-size : 14px ;
+			color :  #999999 ;
+		}
+
+
+
+	.salad{
+			margin-right : -230px ;
+			margin-bottom : 10px ;
+			width : 400px ;
+			height : 40px ;
+		}
+
+
+
+
+
+	.food{
+			border :5px solid grey ;
+			border-radius : 50% ;
+			height : 70px ;
+			width : 70px ;
+			margin-right : 10px ;
+		}
+
+	
+	/*---------------------------------specials------------------------------------*/		
+
+
+	.specials{
+			background-color : #0d0d0d ;
+			color : white ;
+			padding : 50px 0px 90px ;
+		}
+
+	
+
+	.specials p{
+			
+			color : #999999 ;
+		}
+
+
+	.arc{
+		padding-left : 20px
+		}
+
+
+
+	.specials table b{
+		padding-left : 20px
+		}
+	
+	/*-----------------------------------events------------------------------------*/
+
+
+
+
+
+	.events{
+			background-image : url("../img/events-bg.jpg");
+			background-repeat : round ;
+			background-color : rgba(0,0,0,0.8) ;
+			background-blend-mode : darken ;
+			color :  #999999  ;
+			width: 100%;
+			height : 650px;
+		}
+
+
+
+
+	.organize{
+
+			padding : 50px 0px 0px 120px ;
+			
+		}
+
+
+	
+
+
+	.party{
+			width : 530px ;
+			height: 380px;
+		}
+	
+
+	/*--------------------------------book a table----------------------------------*/
+
+
+	.book{
+			background-color : #0d0d0d ;
+			color : #999999  ;
+
+		}
+
+
+	.book form{
+			padding : 0px 100px 50px 120px ;
+		}
+
+	.book .mov{
+			padding : 50px 100px 0px 120px ;
+		}
+
+
+	
+	.book form input{
+			border : 0.5px solid #ebbb63;
+			color : #999999 ;
+			background-color : #0d0d0d ;
+			width : 370px ;
+			height : 30px ;
+		}
+
+
+	.book form textarea{
+			border : 0.5px solid #ebbb63;
+			color : #999999  ;
+			background-color : #0d0d0d ;
+			width : 1125px ;
+			height : 100px ;
+		}
+
+
+	.book form button{
+			background-color : #ebbb63;
+			border : 0px solid;
+			color : white  ;
+			border-radius : 25px 25px 25px 25px ;
+			width : 150px ;
+			height : 40px ;
+			margin : 0px 490px ;
+		}
+		
+	/*-------------------------testimonials---------------------*/
+
+
+	.lal{
+			background-color : #1a1a1a;
+			color : white  ;
+			height : 500px ;
+			padding : 30px 30px 50px ;
+			
+		}
+
+
+
+
+
+
+
+	.lalit{
+		margin-left : 95px ; 
+		}
+
+		
+
+
+	.pls{
+		margin-left : 100px ; 
+		}
+		
+
+
+
+
+
+	.pls img{
+		border : 5px solid grey ;
+		border-radius : 50% ;
+		height : 80px ; 
+		width : 80px ;
+		margin-left : 20px ;
+		}
+
+	
+
+	.pls b{
+		color : gold ;
+		font-size : 30px ;
+		}
+
+
+	.imge{
+		margin-top : -30px ;
+		margin-left : 25px ;
+		}
+
+	.imge p{
+		font-size : 13px ;
+		}
+
+	
+
+
+
+	.imgd{
+		margin-top : -30px ;
+		margin-left : 25px ;
+		}
+
+	.imgd p{
+		font-size : 13px ;
+		}
+
+
+
+	.imgti{
+		margin-top : -30px ;
+		margin-left : 25px ;
+		}
+
+	.imgti p{
+		font-size : 13px ;
+		}
+
+
+
+
+	.sar{
+		border-radius : 10px ;
+		height : 150px ;
+		background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+		}	
+
+
+
+	.jen{
+		border-radius : 10px ;
+		height : 150px ;
+		background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+		}
+
+
+	.mat{
+		border-radius : 10px ;
+		height : 150px ;
+		background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+		}
+
+
+	/*-------------------------gallery---------------------*/
+
+
+
+	 .gal{
+		background-color : #0d0d0d ;
+		padding-bottom : 50px ;
+		}
+
+
+	.gal img{
+		width : 349px; 
+		height : 250px;	
+		}
+
+	.lery{
+		padding-left : 150px ;
+		padding-top: 30px 
+		
+		}
+
+
+
+	/*-------------------------chefs---------------------*/
+
+
+	.chefs img{
+			height : 350px ;
+			width : 350px ;
+			margin : 0px 10px ;
+			
+			}
+
+
+	.chefs{
+			background-color : #0d0d0d ;
+			padding-left : 150px ;
+			padding-bottom : 50px ;
+			}
+
+
+	/*-------------------------contact---------------------*/
+
+
+	.con{
+		background-color : #0d0d0d ;
+		padding : 40px 0px 20px 150px ;
+		}
+
+
+	.act{
+		background-color : #0d0d0d ;
+		}
+
+	.ct{
+		margin-left : 110px ;
+		padding : 30px 0px 50px 10px ;
+		}
+
+
+
+	.map{
+		margin-bottom : -5px ;
+		}
+
+
+
+
+	.act img{
+		border : 0px solid ;
+		border-radius :50% ;
+		width : 70px ;
+		height : 70px ;
+		}
+
+
+	.act b{
+		color : white ;
+		font-size :20px;
+		}
+
+
+	.act i{
+		font-size : 12px ;
+		color : #ebbb63;
+		}
+
+
+	.act form input{
+		border : 0.5px solid #ebbb63 ;
+		background-color : #0d0d0d ;
+		width : 395px ;
+		height : 40px ;
+		}
+
+	
+	.act form textarea{
+		border : 0.5px solid #ebbb63 ;
+		background-color : #0d0d0d ;
+		color : #999999 ;
+		width : 800px ;
+		height : 170px ;
+		}
+
+
+
+	.act form button{
+			background-color : #ebbb63;
+			border : 0px solid;
+			color : white  ;
+			border-radius : 25px 25px 25px 25px ;
+			width : 150px ;
+			height : 40px ;
+			margin : 0px 330px ;
+		}
+
+
+
+	/*-------------------------last---------------------*/
+
+
+	.last{
+		border-top : 0.5px solid #ebbb63 ;
+		border-bottom : 0.5px solid #ebbb63 ;
+		background-color : #0d0d0d ;
+		color : white ;
+		}
+
+
+
+	.ant{
+		padding : 20px 20px 20px 40px ;
+		}
+
+
+	
+	
+
+
+
+	.last button{
+			background-color : #ebbb63;
+			border : 2px solid #ebbb63;
+			color : white  ;
+			border-radius : 25px 25px 25px 25px ;
+			width : 100px ;
+			height : 30px ;
+			
+		}
+
+
+
+	.but{						
+			background-color : #1a1a1a;
+			border : 0.5px solid #ebbb63 ;
+			border-radius : 25px 25px 25px 25px ;
+			
+		}
+	
+
+	/*-------------------------end---------------------*/
+
+	.end{						
+			background-color : black;
+			border-bottom : 0.5px solid #ebbb63 ;
+			padding : 20px ;
+			
+		}
+
+	/*--------------------------------------------------------------------------------------------------------------------------------------------------------*/	
+
+
+
+
+
+
